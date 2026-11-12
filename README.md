@@ -1,5 +1,10 @@
 # Image Smoothing and Sharpening Using OpenCV
 
+##  Developed By
+
+- **Name:** SAFIRA BARVEEN S
+- **Register No:** 212224230235
+
 ## Aim
 
 To write a Python program using OpenCV to apply different smoothing filters (Averaging, Weighted Averaging, Gaussian, Median) and sharpening filters (Laplacian Kernel and Laplacian Operator) for image enhancement, and display each result separately along with the original image for comparison.
@@ -120,10 +125,7 @@ plt.subplot(132); plt.imshow(gray_image, cmap='gray'); plt.title('Gray_image')
 plt.subplot(133); plt.imshow(laplacian_operator,cmap='gray'); plt.title('Output Image ( Laplacian_filter)')
 ```
 
-##  Developed By
 
-- **Name:** Keerthana P
-- **Register No:** 212225240071
 ---
 
 ##  Output
